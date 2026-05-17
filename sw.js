@@ -1,4 +1,4 @@
-const CACHE = 'uke-tuner-v1';
+const CACHE = 'uke-tuner-v2';
 const ASSETS = [
   './',
   './index.html',
